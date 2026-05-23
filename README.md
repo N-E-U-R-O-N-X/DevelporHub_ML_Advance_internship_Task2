@@ -47,5 +47,5 @@ The complete model is available directly in this repository as `churn_prediction
 * **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Joblib
 
 ## 👩‍💻 Author
-**Eshaal Hammad**
-* **Email:** eshaalhammad234@gmail.com
+**Subhan Ali**
+* **Email:** subhan034749@gmail.com
